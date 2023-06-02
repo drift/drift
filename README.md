@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @drift
-- 💀 I'm working elsewhere
+- working at WCC
 
 <!---
 drift/drift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
